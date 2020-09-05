@@ -1,13 +1,17 @@
-# DersIcerikTakip.v2
+# ClassContentTracing - DersIcerikTakip
+
+
+This project is tracing a school's class content. 
+
 Ders İçerik Takibi Program İçeriği, Dokümantasyon ve Slayt
 
 
-Program için ----> DersEdit
+For program - Program için ----> DersEdit
 
 
 
-Dokümantasyon -----> dokumantasyon.pdf
+Documantation - Dokümantasyon -----> dokumantasyon.pdf
 
 
 
-Slayt -----> java1.pptx
+Slide - Slayt -----> java1.pptx
